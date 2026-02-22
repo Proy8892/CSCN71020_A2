@@ -1,0 +1,13 @@
+.vs/
+x64/
+Debug/
+Release/
+*.log
+*.tlog
+*.obj
+*.pch
+*.ipch
+*.ilk
+*.pbd
+*.idb
+*.lastbuildingstat
